@@ -25,7 +25,7 @@ SECRET_KEY = '@v3xq+8_9=zq79gwqpk%9-c=!x4cz1t=lzj--v6qpo=qplbk6s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ofkarter.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
